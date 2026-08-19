@@ -12,9 +12,8 @@
 const erik = {
     pronouns: "He" | "Him",
     code: ["C#", "HTML", "CSS", "JavaScript"],
-    askMeAbout: ["software dev", "tech", "music", "books"],
+    askMeAbout: ["software dev", "tech", "networking"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
