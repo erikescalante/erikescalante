@@ -1,4 +1,4 @@
-<h2>Hello There! I'm Erik Escalante<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o1eHN0cWlxaGNlYmVhcGVtbG5jZjZ4dW11NmZyZGVlM2R3dncwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Rnb5VoZiIyIM0/giphy.gif" width="50"></h2>
+<h2>Hello There! I'm Erik<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o1eHN0cWlxaGNlYmVhcGVtbG5jZjZ4dW11NmZyZGVlM2R3dncwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Rnb5VoZiIyIM0/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxqcDk2MWpkZXhqOTJwdTFhMWc0bjgzamF6MnZrMDIybmF3dDlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 <p><em>Student of Software Engineer at <a href="https://www.unaj.edu.ar">Universidad Nacional Arturo Jauretche</a></em></p>
 
