@@ -16,12 +16,12 @@ const erik = {
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Vue", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node"],
+            C#: ["ASP .NET"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["MongoDB", "Apache Cassandra", "PostgreSQL"],
